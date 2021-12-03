@@ -1,2 +1,2 @@
-# TikTok-Reportation-Bot
-A Bot that ive spent 5 Minutes Creating also due to them being retards they have no rate limit system
+# TikTok-ReportBot
+This bot has been created to remove CyberBully and retarded conspiracys ```I take no responsibility for your actions. This is created for Educational purposes and to remove some toxic people off the internet ```
