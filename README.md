@@ -26,5 +26,7 @@ pip install random
 Tool was original created to remove racism,QAnon and anti-vax conspiracy theories
 
 
+# PATCHED!
+
 
 
